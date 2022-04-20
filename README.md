@@ -1,0 +1,2 @@
+# minor-synopsis-
+image steganography 
